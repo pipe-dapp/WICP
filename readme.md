@@ -1,6 +1,6 @@
 
 # What is WICP(Wrapped-ICP)
-WICP is an alt token based on the ICP-20 standard, and it's value is 1:1 with ICP.
+WICP is an alt token based on the ICP-20 standard, and it's value is 1:1 with ICP
 
 # Why use WICP
 * Support atomic and batch transfer to implementation complex transactions
