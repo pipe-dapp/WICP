@@ -2,7 +2,7 @@
 # What is WICP(Wrapped-ICP)
 WICP is an alt token based on the ICP-20 standard, and it's value is 1:1 with ICP
 
-# Why use WICP
+# Why you need WICP
 * Support atomic and batch transfer to implementation complex transactions
 * Zero transaction fee
 * WICP brings more liquidity to the internet computer, decentralized exchange(DEX) and DeFi applications
